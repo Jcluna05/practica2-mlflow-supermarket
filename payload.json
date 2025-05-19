@@ -1,0 +1,17 @@
+[
+  {
+    "Unit price": 74.69,
+    "Quantity": 7,
+    "Tax 5%": 26.1415,
+    "Sales": 548.9715,
+    "cogs": 522.83,
+    "gross margin percentage": 4.761905,
+    "gross income": 26.1415,
+    "Branch": "Alex",
+    "City": "Yangon",
+    "Customer type": "Member",
+    "Gender": "Female",
+    "Product line": "Health and beauty",
+    "Payment": "Ewallet"
+  }
+]
