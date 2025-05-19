@@ -169,6 +169,6 @@ curl -v -i -X POST http://127.0.0.1:5001/predict \
 *Figura 2: Jupyter Lab abierto en `notebooks/practica2_supermarket_rating.ipynb`, con metadatos, imports y estructura de celdas para EDA, preprocesamiento y experimentos MLflow.*
 
 ### Prueba de la API de predicción vía curl
-![Prueba de endpoint `/predict` con curl y respuesta JSON](images/test.png)
+![Prueba de endpoint `/predict` con curl y respuesta JSON](images/Test.png)
 *Figura 3: Terminal donde se ejecuta `curl -X POST http://127.0.0.1:5001/predict --data @payload.json` y se recibe un `200 OK` con el JSON `{"predictions":[8.36]}`.*
 
